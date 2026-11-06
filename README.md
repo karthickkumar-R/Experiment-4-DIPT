@@ -1,7 +1,8 @@
 # Geometric Transformations Using OpenCV
+## Name   : Karthickkumar R
+## Reg no : 212223040087
 
 ---
-
 ## Aim
 
 To write a Python program using OpenCV to perform various geometric transformations on an image.
