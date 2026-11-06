@@ -159,21 +159,26 @@ plt.axis('off')
 ---
 
 ##  Output
+## Original Image:
+<img width="297" height="393" alt="Screenshot 2026-11-06 160308" src="https://github.com/user-attachments/assets/6b7eedfd-e724-4cb4-ac12-f46b3404ddb2" />
 
-<img width="1107" height="621" alt="image" src="https://github.com/user-attachments/assets/e2b79726-329b-4482-8111-9d9f7f9620b4" />
+## Translated Image:
+<img width="302" height="402" alt="Screenshot 2026-11-06 160333" src="https://github.com/user-attachments/assets/12cf9566-b7cc-4e01-b2c9-0afb8ce2aa94" />
 
-<img width="1192" height="615" alt="image" src="https://github.com/user-attachments/assets/ece4c884-78e6-4252-8c43-ef297533dd63" />
+## Scaled Image:
+<img width="497" height="286" alt="Screenshot 2026-11-06 160341" src="https://github.com/user-attachments/assets/056142e5-4045-4bf3-9900-f108585cd66e" />
 
-<img width="1498" height="342" alt="image" src="https://github.com/user-attachments/assets/f67c4e6c-e1a4-4f80-b774-208b9bf45eff" />
+## Sheared Image:
+<img width="300" height="406" alt="Screenshot 2026-11-06 160353" src="https://github.com/user-attachments/assets/8aca5909-87cc-4caa-814d-545ffce7747d" />
 
-<img width="1413" height="747" alt="image" src="https://github.com/user-attachments/assets/8aa7539d-9b5f-47df-b93e-0ddfd0b20081" />
+## Reflected Image:
+<img width="285" height="396" alt="Screenshot 2026-11-06 160406" src="https://github.com/user-attachments/assets/c606c400-39dd-4f80-aa98-4b5c34a391f4" />
 
-<img width="1478" height="747" alt="image" src="https://github.com/user-attachments/assets/e6d026fc-1c3c-46ce-bee5-b35efdf2f7d9" />
+## Rotated Image:
+<img width="305" height="397" alt="Screenshot 2026-11-06 160417" src="https://github.com/user-attachments/assets/ee64524f-38dc-428d-a5de-00f394f4eb80" />
 
-<img width="1401" height="748" alt="image" src="https://github.com/user-attachments/assets/4d0cee35-40a2-4f90-b0bf-cdccddab15ab" />
-
-<img width="1245" height="671" alt="image" src="https://github.com/user-attachments/assets/ee71aa47-4d57-4ee6-8210-f3e997dba1cd" />
-
+## Cropped Image:
+<img width="313" height="402" alt="Screenshot 2026-11-06 160426" src="https://github.com/user-attachments/assets/c33878f4-7a00-4552-a13e-1b59e5183ab1" />
 
 ### Image Translation
 - Original image is displayed  
